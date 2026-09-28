@@ -1,0 +1,4 @@
+interface:
+  display_name: "讲义完整学习"
+  short_description: "重组课程核心知识，保留认知训练与必要逻辑，让渡重复执行并控制耗时"
+  default_prompt: "使用 $lecture-to-learning，根据讲义区分必须内化、理解接口和可交给 AI 的内容，提取核心知识并保留认知训练与必要逻辑链，按默认时间预算交付自包含教程。"
